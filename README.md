@@ -1,2 +1,2 @@
-# CSCE1015
+# CSCE1015 - Hochstetler
 Assignment repository for UNT CSCE1015
